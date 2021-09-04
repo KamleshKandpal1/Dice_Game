@@ -1,6 +1,6 @@
 'use strict';
 alert(
-  'Rules \n 1.First Player to score 100 points win the game 2.Rolling Dice 1 will shift your turn.'
+  ' Rules: \n 1.First Player to score 100 points win the game\n 2.Rolling Dice 1 will shift your turn.'
 );
 
 // Selecting Elements
